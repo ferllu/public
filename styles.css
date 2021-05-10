@@ -1,0 +1,12 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+
+}
